@@ -28,7 +28,4 @@ The test was done in **Free Space** (no ground effects). The results are:
 
 **Conclusion:** The simulation confirms that the $\lambda/2$ dipole design works exactly as the theory predicts. This shows that the simulation setup was correct and reliable.
 
-**
 
-[Image of Dipole Antenna Radiation Pattern]
-**
